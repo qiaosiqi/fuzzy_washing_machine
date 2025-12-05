@@ -1,0 +1,65 @@
+# ==============================
+# Python / virtual environment
+# ==============================
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# ==============================
+# Database
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ==============================
+# System / Temp files
+# ==============================
+Thumbs.db
+*.log
+*.tmp
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Build / Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# PyQt / GUI temp
+# ==============================
+*.ui~
+*.qrc~
+
+# ==============================
+# Matplotlib cache
+# ==============================
+.mplhistory
+.matplotlib/
+
+# ==============================
+# Project specific (optional)
+# ==============================
+exports/
+outputs/
+reports/draft/
